@@ -42,16 +42,16 @@ public class Tweeting {
 	public static void main(String[] args) throws IOException, TwitterException {
 
 		// Your Twitter App's Consumer Key
-		String consumerKey = "ecGHfsMwx38UCNC6CbQI3w";
+		String consumerKey = "***";
 
 		// Your Twitter App's Consumer Secret
-		String consumerSecret = "4kBTO8pwa7XpwdoIEGKkNTUdHODOe4TywXKgBXuEE";
+		String consumerSecret = "***";
 
 		// Your Twitter Access Token
-		String accessToken = "168741775-mQjCUa9TrRajOkWqmgatZZ7vxFPUxFzIQwXfZdYm";
+		String accessToken = "***";
 
 		// Your Twitter Access Token Secret
-		String accessTokenSecret = "JiRAZnqqJw75CiwohFrDo7yswkXc0IR7Tsz6I73lo";
+		String accessTokenSecret = "***";
 
 		// Instantiate a re-usable and thread-safe factory
 		TwitterFactory twitterFactory = new TwitterFactory();
